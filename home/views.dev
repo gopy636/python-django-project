@@ -1,0 +1,8 @@
+
+         """ email_obj ,_ = Student.objects.get_or_create(name ='name',
+                                                     age ='age', 
+                                                     email='email',
+                                                     adress='adress'
+         )                    
+         email_obj.save()
+          """print(email_obj)
